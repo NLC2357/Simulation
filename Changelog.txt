@@ -1,4 +1,5 @@
 Changelog
 
 - 22/03/2026 : Reprise du projet
-- 26/03/2026 : Read-me V1
+- 26/03/2026 : ReadMe
+- 28/03/2026 : Version 1.0
