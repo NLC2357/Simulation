@@ -2,6 +2,6 @@ Changelog
 
 - 22/03/2026 : Reprise du projet
 - 26/03/2026 : ReadMe
-- 28/03/2026 : Version 1.0
-- 30/03/2026 : Version 1.1
+- 28/03/2026 : Code Version 1.0
+- 30/03/2026 : Code Version 1.1
     Add figures and parameters saving
