@@ -1,5 +1,7 @@
 ---> PLEASE CONSULT README.PDF
 
+========================WORK IN PROGRESS=========================
+
 READ-ME
 
 I)	Objectif : Simulation d’une combustion de méthane par méthodes numériques
