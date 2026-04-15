@@ -1,3 +1,3 @@
----> PLEASE CONSULT README.PDF
+Project 1 : 🔥 Methane Combustion Simulation — From Scratch
 
-========================WORK IN PROGRESS=========================
+---> PLEASE CONSULT README.PDF
